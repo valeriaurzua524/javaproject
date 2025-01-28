@@ -2,7 +2,7 @@ public class javaproject {
     private String name;
     private String employeeNumber;
     private String hireDate;
-
+//contructor
     public javaproject(String name, String employeeNumber, String hireDate) {
         this.name = name;
         this.employeeNumber = employeeNumber;
